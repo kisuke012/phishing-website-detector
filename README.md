@@ -48,7 +48,7 @@ This project was built as a supervised machine learning mini-project, following 
 | Model | Accuracy | Notes |
 |---|---|---|
 | Logistic Regression | ~93% | Required feature scaling to converge reliably |
-| Decision Tree | 96% | Prone to overfitting compared to the ensemble version |
+| Decision Tree | ~96% | Prone to overfitting compared to the ensemble version |
 | **Random Forest (all 30 features)** | ~97% | Best overall performance |
 | **Random Forest (top 15 features)** | ~94% | Final model — smaller accuracy trade-off for a much simpler, more usable input form |
 
