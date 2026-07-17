@@ -2,7 +2,7 @@
 
 A machine learning mini-project that predicts whether a website is **phishing** or **legitimate**, based on 15 key URL and website characteristics — built with scikit-learn and deployed as an interactive web app using Streamlit.
 
-🔗 **Live App:** _[add your Streamlit Cloud link here once deployed]_
+🔗 **Live App:** [https://phishing-website-detectorx.streamlit.app/]
 
 ---
 
