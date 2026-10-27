@@ -63,7 +63,6 @@ This project was built as a supervised machine learning mini-project, following 
 
 Evaluated using Accuracy, Precision, Recall, F1-Score, and a Confusion Matrix — with particular attention to **recall on the phishing class**, since failing to catch an actual phishing site is a more costly error than a false alarm on a legitimate one.
 
-_(Fill in your final numbers here once confirmed on the corrected 15-feature model:)_
 - Accuracy: `94%`
 - Precision: `95%`
 - Recall: `92%`
